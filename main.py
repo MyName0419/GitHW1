@@ -25,4 +25,7 @@ if __name__ == '__main__':
     # adding new item in hotfix
     print_hi('Hello World 5')
 
+    # adding new item in local main branch
+    print_hi('Hello World Updates on Local Main Branch')
+
 # https://www.jetbrains.com/help/pycharm/에서 PyCharm 도움말 참조
