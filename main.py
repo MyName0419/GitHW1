@@ -28,4 +28,7 @@ if __name__ == '__main__':
     # adding new item in local main branch
     print_hi('Hello World Updates on Local Main Branch')
 
+    # Updates on main branch of Github
+    print_hi('Hello World Updates on Github')
+
 # https://www.jetbrains.com/help/pycharm/에서 PyCharm 도움말 참조
