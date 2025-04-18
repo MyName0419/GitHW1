@@ -28,6 +28,9 @@ if __name__ == '__main__':
     # adding new item in local main branch
     print_hi('Hello World Updates on Local Main Branch')
 
+    # Updates on main branch of Github
+    print_hi('Hello World Updates on Github')
+
     # Updates in local main branch
     print_hi('Hello World Updates on Local Main Branch 2')
 
